@@ -1,4 +1,4 @@
-# ais-healthcare
+# AIS-healthcare
 AIS healthcare competition
 Challenge Summary
 HCA Healthcare Challenge Summary
