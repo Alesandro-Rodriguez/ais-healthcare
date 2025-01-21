@@ -1,1 +1,5 @@
-
+Problem Statemnt consideration:
+Given:-During times of natural disasters, how can patient assistance be improved through better organizing available resources from within a larger healthcare company and available emergency preparedness and disaster relief resources?
+To provide a starting point, we will be providing a deidentified data set with over 200,000 of our employees. How can this data be used to better prepare our facilities for these devastating storms? 
+What other sources of data might be useful?
+It will be your job to answer not only these questions, but others that we may not have considered. 
